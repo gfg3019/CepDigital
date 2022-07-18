@@ -1,0 +1,17 @@
+{
+    "name": "genisson/projeto-cep-digital",
+    "autoload": {
+        "psr-4": {
+            "Genisson\\ProjetoCepDigital\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gfg3019",
+            "email": "genissongomes@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
